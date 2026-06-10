@@ -2923,6 +2923,33 @@ input[type=radio]:checked ~ label::before {
   line-height: 28px;
   letter-spacing: -0.32px;
 }
+.fancy-box.style2 .content .tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+.fancy-box.style2 .content .tags span {
+  display: inline-block;
+  padding: 6px 14px;
+  color: var(--title);
+  font-family: "Urbanist", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  background: var(--theme2);
+  border-radius: 30px;
+  transition: all 0.4s ease;
+}
+.fancy-box.style2 .content .tags span:hover {
+  background: var(--theme);
+  color: var(--white);
+}
+.wcu-section .fancy-box.style2 {
+  align-items: flex-start;
+}
+.wcu-section .fancy-box.style2 .content {
+  max-width: 100%;
+}
 .fancy-box.style3 {
   display: flex;
   align-items: center;
