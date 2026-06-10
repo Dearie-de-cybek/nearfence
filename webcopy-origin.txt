@@ -1,0 +1,1168 @@
+Uri: https://ex-coders.com/html/niotech/about.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\about.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/niotech/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/niotech/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/niotech/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/niotech/assets/css/main.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\css\main.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/niotech/assets/css/meanmenu.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/niotech/assets/css/nice-select.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/niotech/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/niotech/assets/images/about/01.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\about\01.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/about/aboutThumb1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\about\aboutThumb1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/about/aboutThumb1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\about\aboutThumb1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/about/aboutThumb2_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\about\aboutThumb2_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/about/aboutThumb2_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\about\aboutThumb2_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/about/shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\about\shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/advantage/advantageThumb1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\advantage\advantageThumb1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/advantage/advantageThumb1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\advantage\advantageThumb1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogCardThumb3_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogCardThumb3_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogCardThumb3_3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogCardThumb3_3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogProfileThumb3_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogProfileThumb3_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogProfileThumb3_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogProfileThumb3_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogRecentThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogRecentThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogRecentThumb1_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogRecentThumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogRecentThumb1_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogRecentThumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogRecentThumb3_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogRecentThumb3_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogRecentThumb3_3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogRecentThumb3_3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb1_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb2_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb2_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb2_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb2_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb3_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb3_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb3_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb3_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb3_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb3_4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb3_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb3_5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb3_5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb3_6.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb3_6.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb3_7.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb3_7.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb3_8.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb3_8.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb3_9.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb3_9.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb4_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb4_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb4_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb4_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/blog/blogThumb4_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\blog\blogThumb4_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/cta/ctaAppleStore1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\cta\ctaAppleStore1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/cta/ctaplayStore1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\cta\ctaplayStore1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/cta/ctaThumb1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\cta\ctaThumb1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/faq/faqThumb1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\faq\faqThumb1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/faq/faqThumb1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\faq\faqThumb1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/faq/faqThumb3_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\faq\faqThumb3_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/gap.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\gap.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/header/home-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\header\home-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/header/home-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\header\home-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/header/home-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\header\home-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/hero/01.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\hero\01.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/hero/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\hero\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/hero/mobile.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\hero\mobile.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/01.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\01.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/02.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\02.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/03.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\03.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/04.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\04.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/05.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\05.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/06.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\06.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/arrowIconDark.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\arrowIconDark.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/calendar.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/calendarIcon.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\calendarIcon.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/calendarIcon.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\calendarIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/checkmarkIcon.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\checkmarkIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/chevron-down.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/chevron-right.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/csharf.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\csharf.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/css.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\css.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/fireIcon.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\fireIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/FolderIcon.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\FolderIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/html.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\html.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/js.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\js.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/laravel.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\laravel.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/mongodb.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\mongodb.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/nextjs.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\nextjs.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/nodejs.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\nodejs.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/projectDetailsIcon1_1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\projectDetailsIcon1_1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/projectDetailsIcon1_2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\projectDetailsIcon1_2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/projectDetailsIcon1_3.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\projectDetailsIcon1_3.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/python.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\python.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/quoteIcon.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\quoteIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/react.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\react.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/sass.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\sass.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/serviceIcon1_1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\serviceIcon1_1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/serviceIcon1_2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\serviceIcon1_2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/serviceIcon1_3.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\serviceIcon1_3.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/serviceIcon3_1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\serviceIcon3_1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/serviceIcon3_2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\serviceIcon3_2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/serviceIcon3_3.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\serviceIcon3_3.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/serviceIcon3_5.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\serviceIcon3_5.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/serviceIcon3_6.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\serviceIcon3_6.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/starIcon1_1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\starIcon1_1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/tagIcon.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\tagIcon.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/tagIcon.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\tagIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/typescript.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\typescript.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/userIcon.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\userIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/wcuIcon1_1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\wcuIcon1_1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/wcuIcon1_2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\wcuIcon1_2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/wcuIcon1_3.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\wcuIcon1_3.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/wcuIcon1_4.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\wcuIcon1_4.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/wcuIcon1_5.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\wcuIcon1_5.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/wcuIcon1_6.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\wcuIcon1_6.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/wcuIcon2_1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\wcuIcon2_1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/wcuIcon2_2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\wcuIcon2_2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/icon/wordpress.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\icon\wordpress.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/intro/introProfileThumb1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\intro\introProfileThumb1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/intro/introThumb1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\intro\introThumb1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/intro/introThumb2_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\intro\introThumb2_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/intro/introThumb2_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\intro\introThumb2_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/intro/introThumb2_3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\intro\introThumb2_3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/logo/brandLogo1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\logo\brandLogo1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/logo/brandLogo1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\logo\brandLogo1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/logo/brandLogo1_3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\logo\brandLogo1_3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/logo/brandLogo1_4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\logo\brandLogo1_4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/logo/brandLogo1_5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\logo\brandLogo1_5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/logo/logo.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/logo/logo2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\logo\logo2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/niotech/assets/images/pricing-bg.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\pricing-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projecDetailstThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projecDetailstThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_10.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_10.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_6.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_6.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_7.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_7.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_8.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_8.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb1_9.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb1_9.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb2_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb2_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb2_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb2_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb2_4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb2_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb2_5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb2_5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb2_6.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb2_6.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb2_7.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb2_7.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb2_8.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb2_8.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb3_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb3_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb3_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb3_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb3_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/project/projectThumb3_4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\project\projectThumb3_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/services/item-shape-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\services\item-shape-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/services/item-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\services\item-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/services/servicesDetailsThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\services\servicesDetailsThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/services/servicesDetailsThumb1_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\services\servicesDetailsThumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/services/servicesDetailsThumb1_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\services\servicesDetailsThumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/services/servicesThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\services\servicesThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/aboutThumbShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\aboutThumbShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/aboutThumbShape1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\aboutThumbShape1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/aboutThumbShape1_3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\aboutThumbShape1_3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/aboutThumbShape1_4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\aboutThumbShape1_4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/advanceThumbShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\advanceThumbShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/breadCumbShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\breadCumbShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/breadCumbShape1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\breadCumbShape1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/ctaShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\ctaShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/ctaShape1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\ctaShape1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/ctaShape1_3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\ctaShape1_3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/ctaShape1_4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\ctaShape1_4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/featureProfileShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\featureProfileShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/footerShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\footerShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/footerShape1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\footerShape1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/footerShape1_3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\footerShape1_3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/introShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\introShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/introShape1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\introShape1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/introShape1_3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\introShape1_3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/introShape1_4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\introShape1_4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/introShape1_5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\introShape1_5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/introThumbShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\introThumbShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/introThumbShape1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\introThumbShape1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/testimonialShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\testimonialShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/testimonialShape1_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\testimonialShape1_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/testimonialShape2_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\testimonialShape2_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/testimonialShape2_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\testimonialShape2_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/wcuThumbShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\wcuThumbShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/wcuThumbShape3_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\wcuThumbShape3_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/workProcessShape1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\workProcessShape1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/shape/wpShape2_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\shape\wpShape2_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/tag/01.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\tag\01.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/tag/02.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\tag\02.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/tag/03.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\tag\03.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/tag/04.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\tag\04.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/tag/05.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\tag\05.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/tag/06.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\tag\06.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/tag/07.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\tag\07.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/team/teamDetailsSignature.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\team\teamDetailsSignature.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/team/teamDetailsThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\team\teamDetailsThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/team/teamThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\team\teamThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/team/teamThumb1_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\team\teamThumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/team/teamThumb1_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\team\teamThumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/team/teamThumb1_4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\team\teamThumb1_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/team/teamThumb1_5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\team\teamThumb1_5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/team/teamThumb1_6.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\team\teamThumb1_6.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/testimoial/01.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\testimoial\01.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/testimoial/bg.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\testimoial\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/testimoial/logo.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\testimoial\logo.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/testimoial/testimonialProfileThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\testimoial\testimonialProfileThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/testimoial/testimonialProfileThumb1_2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\testimoial\testimonialProfileThumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/testimoial/testimonialProfileThumb1_3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\testimoial\testimonialProfileThumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/images/wcu/wcuThumb1_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\wcu\wcuThumb1_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/wcu/wcuThumb2_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\wcu\wcuThumb2_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/wcu/wcuThumb2_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\wcu\wcuThumb2_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/wcu/wcuThumb2_3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\wcu\wcuThumb2_3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/wcu/wcuThumb3_1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\wcu\wcuThumb3_1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/wcu/wcuThumb3_2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\wcu\wcuThumb3_2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/what-do.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\what-do.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/niotech/assets/images/wp/wpThumb2_1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\images\wp\wpThumb2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/niotech/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\jquery-3.7.1.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\jquery.counterup.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/jquery.meanmenu.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\jquery.meanmenu.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/jquery.waypoints.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\jquery.waypoints.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/main.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/nice-select.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\nice-select.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/tilt.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\tilt.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/viewport.jquery.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\viewport.jquery.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\js\wow.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/niotech/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/niotech/blog-details.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\blog-details.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/blog-left-sidebar.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\blog-left-sidebar.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/blog-standard.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\blog-standard.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/blog.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\blog.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/contact.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\contact.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/faq.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\faq.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/index-one-page.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\index-one-page.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/index-three-page.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\index-three-page.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/index-two-page.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\index-two-page.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/index.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\index.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/index2.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\index2.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/index3.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\index3.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/pricing.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\pricing.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/project-details.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\project-details.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/project1.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\project1.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/project2.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\project2.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/service-details.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\service-details.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/services.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\services.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/team-details.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\team-details.html.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/niotech/team.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\niotech\team.html.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap
+File Name: C:\Downloaded Web Sites\ex-coders.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\ex-coders.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhRTM.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83A3ig.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83A3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHc3ig.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHc3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3c3ig.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3c3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXA3ig.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXc3ig.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXc3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3A3ig.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3A3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXA3ig.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSnc3ig.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSnc3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFg.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkfFg.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFg.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFg.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4fFg.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkfFg.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkfFg.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fFg.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8fFg.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUpmv.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUpmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUpmv.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUpmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113Upmv.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113Upmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VZmv.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUpmv.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUpmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVZmv.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VJmv.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VJmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VZmv.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVZmv.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVZmv.ttf
+Content Type: font/ttf
+
