@@ -1,9 +1,9 @@
 <!-- About / Overview Section -->
-<section class="about-section fix" id="overview">
+<section class="about-section fix section-padding" id="overview">
     <div class="about-container-wrapper style1">
         <div class="container">
             <div class="about-wrapper style1">
-                <div class="row gy-5 gx-60">
+                <div class="row gy-5 gx-60 align-items-center">
                     <div class="col-xl-6">
                         <div class="about-thumb">
                             <div class="bg"></div>
@@ -18,37 +18,46 @@
                                 <img src="assets/images/about/aboutThumb1_2.png" alt="thumb">
                             </div>
                         </div>
-                        <div class="attendance-snapshot mt-5 wow fadeInUp" data-wow-delay=".4s">
-                            <h4 class="mb-3">Attendance Snapshot</h4>
-                            <ul class="checklist style1">
-                                <li><img src="assets/images/icon/checkmarkIcon.svg" alt="icon"> North Campus — Verified</li>
-                                <li><img src="assets/images/icon/checkmarkIcon.svg" alt="icon"> Field Team A — Verified</li>
-                                <li><img src="assets/images/icon/checkmarkIcon.svg" alt="icon"> Warehouse 4 — Verified</li>
-                            </ul>
-                            <div class="fancy-box-wrapper style1">
-                                <div class="fancy-box style1">
-                                    <div class="item">
-                                        <h6>128</h6>
-                                        <p>Active Onsite</p>
-                                    </div>
+                        <div class="attendance-snapshot wow fadeInUp mt-5" data-wow-delay=".4s" style="background:var(--theme3);border:1px solid var(--border-2);border-radius:20px;padding:36px 32px 28px;font-family:'Inter',sans-serif">
+                            <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:24px">
+                                <h6 style="margin:0;font-size:15px;font-weight:600;color:var(--title);font-family:'Inter',sans-serif;letter-spacing:-.2px">Attendance Snapshot</h6>
+                                <span style="display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:600;color:#0F6E56;background:#E1F5EE;padding:5px 12px;border-radius:20px;letter-spacing:.2px;font-family:'Inter',sans-serif">
+                                    <span style="width:7px;height:7px;border-radius:50%;background:#1D9E75;animation:nf-pulse 1.6s ease-in-out infinite;flex-shrink:0"></span>
+                                    Live
+                                </span>
+                            </div>
+                            <hr style="border:none;border-top:1px solid var(--border);margin:0 0 24px">
+                            <div style="display:flex;flex-wrap:wrap;gap:10px;margin-bottom:24px">
+                                <span style="display:inline-flex;align-items:center;gap:7px;font-size:12px;font-weight:500;color:var(--theme);background:rgba(116,68,253,.08);padding:7px 14px;border-radius:20px;font-family:'Inter',sans-serif">
+                                    <i class="fa-solid fa-building" style="font-size:11px"></i>North Campus<i class="fa-solid fa-circle-check" style="font-size:12px;color:#1D9E75"></i>
+                                </span>
+                                <span style="display:inline-flex;align-items:center;gap:7px;font-size:12px;font-weight:500;color:var(--theme);background:rgba(116,68,253,.08);padding:7px 14px;border-radius:20px;font-family:'Inter',sans-serif">
+                                    <i class="fa-solid fa-users" style="font-size:11px"></i>Field Team A<i class="fa-solid fa-circle-check" style="font-size:12px;color:#1D9E75"></i>
+                                </span>
+                                <span style="display:inline-flex;align-items:center;gap:7px;font-size:12px;font-weight:500;color:var(--theme);background:rgba(116,68,253,.08);padding:7px 14px;border-radius:20px;font-family:'Inter',sans-serif">
+                                    <i class="fa-solid fa-warehouse" style="font-size:11px"></i>Warehouse 4<i class="fa-solid fa-circle-check" style="font-size:12px;color:#1D9E75"></i>
+                                </span>
+                            </div>
+                            <hr style="border:none;border-top:1px solid var(--border);margin:0 0 8px">
+                            <div style="display:grid;grid-template-columns:1fr 1fr 1fr">
+                                <div style="text-align:center;padding:20px 8px">
+                                    <span style="display:block;font-size:26px;font-weight:700;color:var(--title);line-height:1.1;font-family:'Inter',sans-serif;letter-spacing:-1px">128</span>
+                                    <span style="display:flex;align-items:center;justify-content:center;gap:5px;font-size:11px;color:var(--text);margin-top:7px;font-family:'Inter',sans-serif"><i class="fa-solid fa-user-check" style="font-size:11px;color:var(--theme)"></i>Active Onsite</span>
                                 </div>
-                                <div class="fancy-box style5">
-                                    <h6>08:14 AM</h6>
-                                    <div class="rating">Avg. Check-in</div>
+                                <div style="text-align:center;padding:20px 8px;border-left:1px solid var(--border);border-right:1px solid var(--border)">
+                                    <span style="display:block;font-size:26px;font-weight:700;color:var(--title);line-height:1.1;font-family:'Inter',sans-serif;letter-spacing:-1px">08:14</span>
+                                    <span style="display:flex;align-items:center;justify-content:center;gap:5px;font-size:11px;color:var(--text);margin-top:7px;font-family:'Inter',sans-serif"><i class="fa-solid fa-clock" style="font-size:11px;color:var(--theme)"></i>Avg. Check-in</span>
                                 </div>
-                                <div class="fancy-box style5">
-                                    <h6>98.7%</h6>
-                                    <div class="rating">
-                                        <img src="assets/images/icon/checkmarkIcon.svg" alt="icon" width="16" height="16">
-                                        Geo Compliance
-                                    </div>
+                                <div style="text-align:center;padding:20px 8px">
+                                    <span style="display:block;font-size:26px;font-weight:700;color:var(--title);line-height:1.1;font-family:'Inter',sans-serif;letter-spacing:-1px">98.7%</span>
+                                    <span style="display:flex;align-items:center;justify-content:center;gap:5px;font-size:11px;color:var(--text);margin-top:7px;font-family:'Inter',sans-serif"><i class="fa-solid fa-shield-halved" style="font-size:11px;color:var(--theme)"></i>Geo Compliance</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-6">
-                        <div class="about-content">
-                            <div class="section-title">
+                        <div class="about-content ps-xl-4">
+                            <div class="section-title mb-5">
                                 <div class="subtitle wow fadeInUp" data-wow-delay=".2s">
                                     NearFence Overview <img src="assets/images/icon/fireIcon.svg" alt="icon">
                                 </div>
@@ -57,15 +66,12 @@
                                 <p class="section-desc wow fadeInUp" data-wow-delay=".6s">NearFence pairs secure
                                     sign-in with geofenced clock-ins, so every shift is tied to a verified
                                     location. Managers get real-time visibility into who is onsite, where, and
-                                    when, without relying on manual check-ins or paper timesheets.</p>
+                                    when — without relying on manual check-ins or paper timesheets.</p>
                             </div>
-                            <ul class="checklist style1 wow fadeInUp" data-wow-delay=".2s">
-                                <li><img src="assets/images/icon/checkmarkIcon.svg" alt="icon"> Secure login
-                                    for every employee account</li>
-                                <li><img src="assets/images/icon/checkmarkIcon.svg" alt="icon"> Geofenced
-                                    clock-in restricted to approved worksites</li>
-                                <li><img src="assets/images/icon/checkmarkIcon.svg" alt="icon"> Real-time
-                                    visibility into who is onsite right now</li>
+                            <ul class="checklist style1 wow fadeInUp mb-5" data-wow-delay=".2s">
+                                <li><i class="fa-solid fa-lock" style="color:var(--theme);margin-right:12px;font-size:1.1rem"></i> Secure login for every employee account</li>
+                                <li><i class="fa-solid fa-location-dot" style="color:var(--theme);margin-right:12px;font-size:1.1rem"></i> Geofenced clock-in restricted to approved worksites</li>
+                                <li><i class="fa-solid fa-eye" style="color:var(--theme);margin-right:12px;font-size:1.1rem"></i> Real-time visibility into who is onsite right now</li>
                             </ul>
                             <a class="theme-btn wow fadeInUp" data-wow-delay=".2s" href="#how-it-works">See How It Works
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -82,35 +88,55 @@
                         </div>
                     </div>
                 </div>
-                <div class="row gy-4 mt-5">
+                <div class="row gy-4 mt-5 pt-4">
+                    <!-- Secure Authentication -->
                     <div class="col-xl-4">
-                        <div class="fancy-box style2 wow fadeInUp" data-wow-delay=".2s">
-                            <div class="icon"><img src="assets/images/icon/serviceIcon3_1.svg" alt="icon"></div>
-                            <div class="content">
-                                <h4>Secure Authentication</h4>
-                                <p class="text">Role-based logins keep employee accounts protected and accountable.</p>
+                        <div class="nf-feat-card wow fadeInUp" data-wow-delay=".2s"
+                            style="position:relative;overflow:hidden;border-radius:20px;padding:36px 30px 32px;border:1px solid rgba(116,68,253,.14);background-color:rgba(116,68,253,.04);background-image:radial-gradient(rgba(116,68,253,.1) 1px,transparent 1px);background-size:18px 18px;transition:transform .3s ease;font-family:'Inter',sans-serif">
+                            <span aria-hidden="true" style="position:absolute;bottom:-18px;right:10px;font-size:128px;font-weight:800;line-height:1;color:rgba(116,68,253,.07);font-family:'Inter',sans-serif;pointer-events:none;user-select:none;letter-spacing:-6px">01</span>
+                            <div style="position:relative;z-index:1">
+                                <div style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border-radius:12px;background:rgba(116,68,253,.1);margin-bottom:22px">
+                                    <i class="fa-solid fa-fingerprint" style="font-size:22px;color:#7444FD"></i>
+                                </div>
+                                <h4 style="font-size:17px;font-weight:600;color:var(--title);margin-bottom:10px;font-family:'Inter',sans-serif;letter-spacing:-.3px">Secure Authentication</h4>
+                                <p style="font-size:14px;line-height:1.75;color:var(--text);margin:0;font-family:'Inter',sans-serif">Role-based logins keep employee accounts protected and accountable.</p>
                             </div>
                         </div>
                     </div>
+                    <!-- Geofence Validation -->
                     <div class="col-xl-4">
-                        <div class="fancy-box style2 wow fadeInUp" data-wow-delay=".4s">
-                            <div class="icon"><img src="assets/images/icon/serviceIcon3_2.svg" alt="icon"></div>
-                            <div class="content">
-                                <h4>Geofence Validation</h4>
-                                <p class="text">Clock-ins are checked against approved site boundaries in real time.</p>
+                        <div class="nf-feat-card wow fadeInUp" data-wow-delay=".4s"
+                            style="position:relative;overflow:hidden;border-radius:20px;padding:36px 30px 32px;border:1px solid rgba(29,158,117,.16);background-color:rgba(29,158,117,.04);background-image:radial-gradient(rgba(29,158,117,.12) 1px,transparent 1px);background-size:18px 18px;transition:transform .3s ease;font-family:'Inter',sans-serif">
+                            <span aria-hidden="true" style="position:absolute;bottom:-18px;right:10px;font-size:128px;font-weight:800;line-height:1;color:rgba(29,158,117,.07);font-family:'Inter',sans-serif;pointer-events:none;user-select:none;letter-spacing:-6px">02</span>
+                            <div style="position:relative;z-index:1">
+                                <div style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border-radius:12px;background:rgba(29,158,117,.1);margin-bottom:22px">
+                                    <i class="fa-solid fa-crosshairs" style="font-size:22px;color:#1D9E75"></i>
+                                </div>
+                                <h4 style="font-size:17px;font-weight:600;color:var(--title);margin-bottom:10px;font-family:'Inter',sans-serif;letter-spacing:-.3px">Geofence Validation</h4>
+                                <p style="font-size:14px;line-height:1.75;color:var(--text);margin:0;font-family:'Inter',sans-serif">Clock-ins are checked against approved site boundaries in real time.</p>
                             </div>
                         </div>
                     </div>
+                    <!-- Live Dashboard -->
                     <div class="col-xl-4">
-                        <div class="fancy-box style2 wow fadeInUp" data-wow-delay=".6s">
-                            <div class="icon"><img src="assets/images/icon/serviceIcon3_3.svg" alt="icon"></div>
-                            <div class="content">
-                                <h4>Live Dashboard</h4>
-                                <p class="text">Supervisors see who's onsite, where, and when from a single view.</p>
+                        <div class="nf-feat-card wow fadeInUp" data-wow-delay=".6s"
+                            style="position:relative;overflow:hidden;border-radius:20px;padding:36px 30px 32px;border:1px solid rgba(186,117,23,.16);background-color:rgba(186,117,23,.04);background-image:radial-gradient(rgba(186,117,23,.12) 1px,transparent 1px);background-size:18px 18px;transition:transform .3s ease;font-family:'Inter',sans-serif">
+                            <span aria-hidden="true" style="position:absolute;bottom:-18px;right:10px;font-size:128px;font-weight:800;line-height:1;color:rgba(186,117,23,.07);font-family:'Inter',sans-serif;pointer-events:none;user-select:none;letter-spacing:-6px">03</span>
+                            <div style="position:relative;z-index:1">
+                                <div style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border-radius:12px;background:rgba(186,117,23,.1);margin-bottom:22px">
+                                    <i class="fa-solid fa-gauge-high" style="font-size:22px;color:#BA7517"></i>
+                                </div>
+                                <h4 style="font-size:17px;font-weight:600;color:var(--title);margin-bottom:10px;font-family:'Inter',sans-serif;letter-spacing:-.3px">Live Dashboard</h4>
+                                <p style="font-size:14px;line-height:1.75;color:var(--text);margin:0;font-family:'Inter',sans-serif">Supervisors see who's onsite, where, and when from a single view.</p>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <style>
+                    @keyframes nf-pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+                    .nf-feat-card:hover { transform:translateY(-5px); }
+                </style>
             </div>
         </div>
     </div>

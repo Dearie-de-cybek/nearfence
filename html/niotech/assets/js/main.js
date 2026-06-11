@@ -22,9 +22,8 @@ JS TABLE OF CONTENTS
         11. NiceSelect 
         12. Mouse Cursor 
         13. Progress Bar   
-        14. Search Popup
-        15. Quantity Plus Minus
-        16. Preloader  
+        14. Quantity Plus Minus
+        15. Preloader  
 
 
 ------------------------------------------------------------------*/
@@ -65,7 +64,6 @@ JS TABLE OF CONTENTS
         -----------------------------------*/
         $(".body-overlay").on("click", function () {
             $(".offcanvas__area").removeClass("offcanvas-opened");
-            $(".df-search-area").removeClass("opened");;
             $(".body-overlay").removeClass("opened");
         });
 
@@ -372,38 +370,7 @@ JS TABLE OF CONTENTS
 
 
 
-        /*--------------------------------------------------
-          14. Search Popup
-      ---------------------------------------------------*/
-        const $searchWrap = $(".search-wrap");
-        const $navSearch = $(".nav-search");
-        const $searchClose = $("#search-close");
-
-        $(".search-trigger").on("click", function (e) {
-            e.preventDefault();
-            $searchWrap.animate({ opacity: "toggle" }, 500);
-            $navSearch.add($searchClose).addClass("open");
-        });
-
-        $(".search-close").on("click", function (e) {
-            e.preventDefault();
-            $searchWrap.animate({ opacity: "toggle" }, 500);
-            $navSearch.add($searchClose).removeClass("open");
-        });
-
-        function closeSearch() {
-            $searchWrap.fadeOut(200);
-            $navSearch.add($searchClose).removeClass("open");
-        }
-
-        $(document.body).on("click", function (e) {
-            closeSearch();
-        });
-
-        $(".search-trigger, .main-search-input").on("click", function (e) {
-            e.stopPropagation();
-        });
-
+      
 
 
 

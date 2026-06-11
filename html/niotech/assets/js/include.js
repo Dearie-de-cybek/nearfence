@@ -27,5 +27,11 @@
     // All partials are now in the DOM — load main.js so jQuery plugins find their elements.
     const script = document.createElement('script');
     script.src = 'assets/js/main.js';
+    // main.js uses $(window).on('load') for the preloader, but window.load already fired
+    // by the time we inject the script. Re-fire it after main.js executes so the
+    // preloader dismissal handler actually runs.
+    script.onload = function () {
+        window.dispatchEvent(new Event('load'));
+    };
     document.body.appendChild(script);
 })();
